@@ -1,0 +1,12 @@
+1. Methods
+
+- Thiết lập nghiệm, thiết kế bộ điều khiển, dụng cụ gì, pp lấy dữ liệu, KT phân tích dữ liệu
+
+Experimental setup:
+-  Mô tả: sơ đồ khối(components), schematics of diagram, dimensions
+- Testing procedures:
+	+ Protocol, measurement, dataset saving, data acquisition
+- Data Analysis Methods:
+	+ Software tools, safety Precausion.
+- Contents:
+	- Function blocks: packages, input, process, output,..
